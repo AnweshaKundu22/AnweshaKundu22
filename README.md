@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anwesha Kundu</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
